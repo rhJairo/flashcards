@@ -1,4 +1,4 @@
-#React Webpack Boilerplate
+# React Webpack Boilerplate
 
 This is a custom made boilerplate to ease the setup for a React app.
 
